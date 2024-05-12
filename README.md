@@ -4,6 +4,7 @@
 
 ## Description
 This is a job seeking application designed to help users find job opportunities that match their skills and preferences. The application allows users to search for jobs based on various criteria such as location, job title, and industry.
+- live:https://job-seeking-web-app.netlify.app/
 
 ## Features
 - Search for job opportunities by location, job title, or industry.
